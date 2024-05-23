@@ -117,5 +117,5 @@ If you frequently contribute to the documentation, you may wish to set things up
    cd ..
    ```
 1. ...
-1. Copy your content branch to inside the "content" folder in the `main` branch
-1. ...
+1. Copy your content branch to inside the "content" folder in the infrastructure repository
+1. `zola --config config.test.yml serve` from the base folder of the infrastructure repository (not inside the "content" folder)
