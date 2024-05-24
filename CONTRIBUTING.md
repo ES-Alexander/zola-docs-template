@@ -27,6 +27,16 @@ This file refers to the process of contributing to this documentation repository
     - This is handled by the documentation maintainers
 
 # Making a Contribution
+### Highlighting Documentation Holes/Weaknesses
+> 💡 Suggesting areas for improvement is a valuable contribution!
+
+While we strive to have comprehensive and clear documentation, it is not always obvious to developers which features need additional explanation. If there's a feature you're struggling to make sense of then others likely are too, so please let us know about it!
+
+After searching for existing information, the recommended approaches are to:
+1. Ask questions on [the community forum](https://discuss.bluerobotics.com/c/bluerobotics-software), for clarification of features you would like a better explanation of
+1. [Create an Issue](https://github.com/bluerobotics/{SOFTWARE}-docs/issues) in this repository, with notes of your existing understanding, what you're unsure about, and/or any links and references that seem relevant
+
+### Adding to the Documentation
 > 💡 Contributions should typically be made from a unique branch in an external fork.
 
 Specific processes are covered below, but the general process is:
