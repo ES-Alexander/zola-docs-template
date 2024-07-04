@@ -1,0 +1,4 @@
+[submodule "themes/bluetheme"]
+	path = themes/bluetheme
+	url = https://github.com/bluerobotics/bluetheme
+	branch = dev
